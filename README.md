@@ -130,3 +130,4 @@ You can visit the [Hall of Fame](https://rowhitswami.github.io/hacktoberfest18-f
 * Maxim Syrgiy, Senior Software Engineer - Nizhniy Novgorod, Russia
 * Yordan Zhelev, Front-End Dev - Bulgaria 
 * John Oneil, Front-End Dev - Baltimore, USA 
+* Yashika Varshney,Student-Uttar Pradesh, India
